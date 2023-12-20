@@ -1,0 +1,7 @@
+CONDITION FOR USES
+
+---You can run tis file but its runn infinity loop
+---stop or kill the loop click ctrl+c
+---Education purpose for Function calling its self called "recurtion"
+
+By Sanjay M
